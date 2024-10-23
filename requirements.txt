@@ -2,5 +2,5 @@ streamlit
 pandas
 st-gsheets-connection
 matplotlib
-seaborn
+seaborn #데이터 시각화를 예쁘게
 openpyxl
