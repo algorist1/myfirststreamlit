@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("👋🏻 연수 실습 페이지(1023)")
 st.subheader("처음 실습입니다. 좋아요~")
-st.info("반갑습니다. moon입니다")
+st.info("반갑습니다. moon입니다^^")
 
 st.write("오른쪽 상단의 'fork' 버튼을 눌러주세요. 이 페이지와 앱이 그대로 복사됩니다.")
 st.write("https://docs.google.com/spreadsheets/d/1MDhQpSf110rcR3bSjZ8yEBoMByLZ6Yxs-hQRsC6to1g/edit?usp=sharing")
